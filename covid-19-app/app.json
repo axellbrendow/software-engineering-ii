@@ -1,6 +1,7 @@
 {
   "name": "Covid19App",
   "displayName": "Covid19App",
+  "description": "Final work for my discipline of Software Engineering II. https://github.com/axell-brendow/software-engineering-ii/tree/master/covid-19-app",
   "expo": {
     "name": "Covid19App",
     "slug": "Covid19App",
