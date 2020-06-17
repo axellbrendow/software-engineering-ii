@@ -5,6 +5,8 @@
   "expo": {
     "name": "Covid19App",
     "slug": "Covid19App",
+    "description": "Final work for my discipline of Software Engineering II. https://github.com/axell-brendow/software-engineering-ii/tree/master/covid-19-app",
+    "githubUrl": "https://github.com/axell-brendow/software-engineering-ii/tree/master/covid-19-app",
     "privacy": "unlisted",
     "sdkVersion": "36.0.0",
     "version": "1.0.0",
